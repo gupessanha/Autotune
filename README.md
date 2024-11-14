@@ -1,4 +1,3 @@
-Autotune Telecom
 Este projeto corrige o tom de um arquivo de áudio para uma escala musical específica ou para os tons mais próximos usando o script autotune_telecom.py.
 
 Descrição
